@@ -1,0 +1,14 @@
+[1]Jeffrey Dean and Sanjay Ghemawat, MapReduce:Simplified Data Processing on Large Clusters. in Proc.6th USENIX Symp. on Operating Syst. Design and Impl., 2004, 137每150.
+[2]Leslie G. Valiant, A Bridging Model for Parallel Computation. Comm. ACM 33(8), 1990, 103每111.
+[3]G. Malewicz, M. H. Austern, A. J. Bik, J. C. Dehnert,I. Horn, N. Leiser, and G. Czajkowski. Pregel: a system for large-scale graph processing. In SIGMOD＊10, pages 135每146, New York, NY, USA, 2010. ACM.
+[4]Low Y, Gonzalez J, Kyrola A, et al. Graphlab: A new framework for parallel machine learning. arXiv preprint[J]. arXiv preprint arXiv:1006.4990, 2010.
+[5]Salihoglu S, Widom J. Gps: A graph processing system[J]. 2013.
+[6]Khayyat Z, Awara K, Alonazi A, et al. Mizan: a system for dynamic load balancing in large-scale graph processing[C]//Proceedings of the 8th ACM European Conference on Computer Systems. ACM, 2013: 169-182.
+[7]Prabhakaran V, Wu M, Weng X, et al. Managing large graphs on multi-cores with graph awareness[C]//USENIX ATC. 2012, 12.
+[8]Kyrola A, Blelloch G, Guestrin C. GraphChi: Large-scale graph computation on just a PC[C]//Proceedings of the 10th USENIX Symposium on Operating Systems Design and Implementation (OSDI). 2012: 31-46.
+[9]Srinivasan S. Kilim: A server framework with lightweight actors, isolation types and zero-copy messaging[J]. University of Cambridge, Computer Laboratory, Technical Report, 2010 (UCAM-CL-TR-769).
+[10]Srinivasan S. A thread of one＊s own[C]//Workshop on New Horizons in Compilers. 2006, 4.
+[11]Srinivasan S, Mycroft A. Kilim: Isolation-typed actors for java[M]//ECOOP 2008每Object-Oriented Programming. Springer Berlin Heidelberg, 2008: 104-128.
+[12]Belay A, Bittau A, Mashtizadeh A, et al. Dune: safe user-level access to privileged cpu features[C]//Proceedings of the 10th USENIX conference on Operating Systems Design and Implementation. USENIX Association, 2012: 335-348.
+[13]Gonzalez J E, Low Y, Gu H, et al. PowerGraph: Distributed graph-parallel computation on natural graphs[C]//Proceedings of the 10th USENIX Symposium on Operating Systems Design and Implementation (OSDI). 2012: 17-30.
+[14]Shun J, Blelloch G E. Ligra: a lightweight graph processing framework for shared memory[C]//Proceedings of the 18th ACM SIGPLAN symposium on Principles and practice of parallel programming. ACM, 2013: 135-146.
